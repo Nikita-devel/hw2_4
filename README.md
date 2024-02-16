@@ -1,3 +1,5 @@
+[Main page](https://github.com/Nikita-devel) | [Python Web Page](https://github.com/Nikita-devel/Python_Web)
+
 # HTTP-Socket Server with Docker
 
 This Python script sets up an HTTP server and a socket server to handle GET and POST requests. It also demonstrates the use of Docker to containerize the application.
